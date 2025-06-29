@@ -58,6 +58,16 @@ Others:        ROS, OpenCV, Linux, Skillrack, Postman
 
 ---
 
+---
+
+### 📈 Competitive Programming
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/sec20cs070?theme=dark&font=Baloo+Bhai&ext=contest" alt="Leetcode Stats" />
+</p>
+
+---
+
 ### 🤝 Let's Connect!
 
 * 📫 **Email**: [sddeepakrishi@gmail.com](mailto:sddeepakrishi@gmail.com)
