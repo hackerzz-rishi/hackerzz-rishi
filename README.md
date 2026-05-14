@@ -88,16 +88,6 @@ Others:        Linux, Jetson Xavier AGX, BeautifulSoup (Web Scraping)
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hackerzz-rishi&show_icons=true&theme=radical" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hackerzz-rishi&layout=compact&theme=radical" />
-</p>
-
----
-
 ### 📈 Competitive Programming
 
 <p align="center">
